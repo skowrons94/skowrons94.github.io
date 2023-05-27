@@ -6,10 +6,11 @@ layout: default
 
 ## Teaching
 
-*   [Hydrogen Burning](./another-page.html)
-*   [Chemical Evolution](./another-page.html)
-*   [Reaction Rate](./another-page.html)
-*   [Nuclear Reaction](./another-page.html)
+*   [Hydrogen Burning](https://github.com/skowrons94/Hydrogen_Burning)
+*   [Chemical Evolution](https://github.com/skowrons94/Chemical_Evolution)
+*   [Reaction Rate](https://github.com/skowrons94/Reaction_Rate)
+*   [Nuclear Reaction](https://github.com/skowrons94/Nuclear_Reaction)
+*   [Bayesian Exercises](https://github.com/skowrons94/Bayesian)
 
 ## Publications
 
