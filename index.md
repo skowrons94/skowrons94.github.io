@@ -2,15 +2,11 @@
 layout: default
 ---
 
-## Codes
+## Notebooks
 
-## Teaching
-
-*   [Hydrogen Burning](https://github.com/skowrons94/Hydrogen_Burning)
-*   [Chemical Evolution](https://github.com/skowrons94/Chemical_Evolution)
-*   [Reaction Rate](https://github.com/skowrons94/Reaction_Rate)
-*   [Nuclear Reaction](https://github.com/skowrons94/Nuclear_Reaction)
-*   [Bayesian Exercises](https://github.com/skowrons94/Bayesian)
+*   Hydrogen Burning - [Code](https://github.com/skowrons94/Hydrogen_Burning) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skowrons94/Hydrogen_Burning/HEAD)
+*   Reaction Rate - [Code](https://github.com/skowrons94/Reaction_Rate) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skowrons94/Reaction_Rate/HEAD)
+*   Nuclear Reaction - [Code](https://github.com/skowrons94/Nuclear_Reaction) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skowrons94/Nuclear_Reaction/HEAD)
 
 ## Publications
 
