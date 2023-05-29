@@ -4,9 +4,9 @@ layout: default
 
 ## Notebooks
 
-*   Hydrogen Burning - [Code](https://github.com/skowrons94/Hydrogen_Burning) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skowrons94/Hydrogen_Burning/HEAD)
-*   Reaction Rate - [Code](https://github.com/skowrons94/Reaction_Rate) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skowrons94/Reaction_Rate/HEAD)
-*   Nuclear Reaction - [Code](https://github.com/skowrons94/Nuclear_Reaction) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/skowrons94/Nuclear_Reaction/HEAD)
+*   Nuclear Reaction - [Launch](https://mybinder.org/v2/gh/skowrons94/Nuclear_Reaction/HEAD)
+*   Reaction Rate - [Launch](https://mybinder.org/v2/gh/skowrons94/Reaction_Rate/HEAD)
+*   Hydrogen Burning - [Launch](https://mybinder.org/v2/gh/skowrons94/Hydrogen_Burning/HEAD)
 
 ## Publications
 
