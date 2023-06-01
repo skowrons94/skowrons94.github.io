@@ -4,7 +4,7 @@ layout: default
 
 ## Notebooks
 
-*   Nuclear Reaction - [Launch](https://mybinder.org/v2/gh/skowrons94/Nuclear_Reaction/HEAD)
+*   Nuclear Reaction (<sup>12</sup>C(p,γ)<sup>13</sup>N) - [Launch](https://mybinder.org/v2/gh/skowrons94/Nuclear_Reaction/HEAD)
 *   Reaction Rate - [Launch](https://mybinder.org/v2/gh/skowrons94/Reaction_Rate/HEAD)
 *   Hydrogen Burning - [Launch](https://mybinder.org/v2/gh/skowrons94/Hydrogen_Burning/HEAD)
 *   HPGe Efficiency - [Launch](https://mybinder.org/v2/gh/skowrons94/HPGe-Efficiency/HEAD)
