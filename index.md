@@ -7,6 +7,7 @@ layout: default
 *   Nuclear Reaction - [Launch](https://mybinder.org/v2/gh/skowrons94/Nuclear_Reaction/HEAD)
 *   Reaction Rate - [Launch](https://mybinder.org/v2/gh/skowrons94/Reaction_Rate/HEAD)
 *   Hydrogen Burning - [Launch](https://mybinder.org/v2/gh/skowrons94/Hydrogen_Burning/HEAD)
+*   HPGe Efficiency - [Launch](https://mybinder.org/v2/gh/skowrons94/HPGe-Efficiency/HEAD)
 
 ## Publications
 
